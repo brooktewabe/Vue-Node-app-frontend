@@ -22,5 +22,3 @@
 
 For instruction, please visit:
 > [Vue 3 Authentication & Authorization with JWT, Vuex and Vue Router](https://bezkoder.com/vue-3-authentication-jwt/)
-
-
