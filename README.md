@@ -2,7 +2,7 @@
 
 - Demo Page:
 
-![vue-3](dashboard2.jpg)
+![vue-3](public/dashboard2.jpg)
 
 # Vue 3 Authentication with JWT, Vuex, and Vue Router
 
