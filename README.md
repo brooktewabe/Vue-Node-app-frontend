@@ -8,9 +8,9 @@
 
 ## Flow for User Registration and User Login
 
-![vue-3-authentication-jwt-example-flow](vue-3-authentication-jwt-example-flow.png)
+![vue-3-authentication-jwt-example-flow](public/vue-3-authentication-jwt-example-flow.png)
 
 - Signup Page:
 
-![vue-3-authentication-jwt-example-vuex-user-registration](vue-3-authentication-jwt-example-vuex-user-registration.png)
+![vue-3-authentication-jwt-example-vuex-user-registration](public/vue-3-authentication-jwt-example-vuex-user-registration.png)
 
