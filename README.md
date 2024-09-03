@@ -1,6 +1,8 @@
 ## Backend - https://github.com/brooktewabe/Vue-Node-app-Backend
 
+- Demo Page:
 
+![vue-3](dashboard.jpg)
 
 # Vue 3 Authentication with JWT, Vuex, and Vue Router
 
